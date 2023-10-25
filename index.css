@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(200, 200, 200);
+  }
+  
+h1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    font: 1em sans-serif;
+    cursor: pointer;
+    color: black;
+}
